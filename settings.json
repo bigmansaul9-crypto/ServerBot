@@ -8,7 +8,7 @@
   "server": {
     "ip": "Lotus_Strength.aternos.me:52032",
     "port": 52032,
-    "version": "26.1.2"
+    "version": "26.1"
   },
   "position": {
     "enabled": true,
